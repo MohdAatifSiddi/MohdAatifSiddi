@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @MohdAatifSiddi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm @MohdAatifSiddi  
 
-<!---
-MohdAatifSiddi/MohdAatifSiddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I'm an **entrepreneur, technologist, and computer scientist** focused on AI, space, and building the future.  
+
+### 🔥 About Me  
+- 👀 I’m interested in **AI, superintelligence, robotics, and space colonization**.  
+- 🌱 I’m currently learning **Full-Stack Development, AI, and Web3**.  
+- 💞️ I’m looking to collaborate on **groundbreaking AI & space tech projects**.  
+- 📫 Reach me at **[aatif@weybre.com](mailto:aatif@weybre.com)**.  
+- 😄 Pronouns: **He/Him**.  
+- ⚡ Fun fact: **I’m building AI doctors and planning Mars colonization! 🌍🚀**  
+
+### 📫 Connect with Me  
+- 🐦 **Twitter/X:** [Twitter](https://x.com/MohdAatif_)  
+> “The future belongs to those who build it.” – Let’s make it happen. 🚀  
