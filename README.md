@@ -11,5 +11,4 @@
 - ⚡ Fun fact: **I’m building AI doctors and planning Mars colonization! 🌍🚀**  
 
 ### 📫 Connect with Me  
-- 🐦 **Twitter/X:** [Twitter](https://x.com/MohdAatif_)  
-> “The future belongs to those who build it.” – Let’s make it happen. 🚀  
+- 🐦 **Twitter/X:** [Twitter](https://x.com/MohdAatif_)
