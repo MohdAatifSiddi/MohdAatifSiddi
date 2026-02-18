@@ -2,7 +2,6 @@
 
 ### AI/ML Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohdAatifSiddi&label=Profile views&color=0e75b6&style=flat" alt="MohdAatifSiddi" /> </p>
 
 <p align="left"> <a href="https://twitter.com/MohdAatif_" target="blank"><img src="https://img.shields.io/twitter/follow/MohdAatif_?logo=twitter&style=for-the-badge" alt="MohdAatif_" /></a> </p>
 
