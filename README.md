@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aatif@weybre.com**
 
-- ⚡ Fun fact **Big vision. Zero chill. Running 12 startup ideas in your head while Chrome has 47 tabs open and none are finished.**
+- ⚡ Fun fact **Obsessing over things I'm curious about**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1XqDWOmvf0EyIOGbALK6KQxotd8eoH_vO/view?usp=sharing](https://drive.google.com/file/d/1XqDWOmvf0EyIOGbALK6KQxotd8eoH_vO/view?usp=sharing)**
 
