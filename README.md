@@ -1,37 +1,143 @@
-# Hi 👋, I'm Aatif
+<!-- HEADER -->
+<div align="center">
 
-### AI/ML Engineer
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║         M O H D   A A T I F   S I D D I Q U I              ║
+║                                                              ║
+║              AI/ML Engineer · Builder · Obsessive            ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=1000&color=00FFB4&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Building+automation+infra+that+makes+humans+10x+faster.;AI+%C3%97+Compliance+%C3%97+Big+Data+%C3%97+Space+Colonization.;%22Obsessing+over+things+I'm+curious+about.%22" alt="Typing SVG" />
 
-<p align="left"> <a href="https://twitter.com/MohdAatif_" target="blank"><img src="https://img.shields.io/twitter/follow/MohdAatif_?logo=twitter&style=for-the-badge" alt="MohdAatif_" /></a> </p>
+<br/>
 
-- 🔭 I'm currently working on **I'm creating automation infrastructure for SMBs and enterprises to streamline compliance tasks and reporting workflows, using AI to reduce costs and errors.**
+[![Twitter](https://img.shields.io/badge/──%20@MohdAatif_-000?style=flat&logo=x&logoColor=00FFB4)](https://twitter.com/MohdAatif_)
+[![LinkedIn](https://img.shields.io/badge/──%20atif--adil-000?style=flat&logo=linkedin&logoColor=00FFB4)](https://linkedin.com/in/atif-adil)
+[![GitHub](https://img.shields.io/badge/──%20MohdAatifSiddi-000?style=flat&logo=github&logoColor=00FFB4)](https://github.com/MohdAatifSiddi)
+[![Email](https://img.shields.io/badge/──%20aatif@weybre.com-000?style=flat&logo=gmail&logoColor=00FFB4)](mailto:aatif@weybre.com)
 
-- 🌱 I'm currently learning **AI/ML and BigData**
+</div>
 
-- 👯 I'm looking to collaborate on ** project that accelerates the development of AI and space colonization.**
+---
 
-- 🤝 I'm looking for help with **AI/ML & Backend Development**
+## `$ whoami`
 
-- 💬 Ask me about **React, Node.js, AI/ML, BigData, Backend Development, Pytorch**
+```python
+aatif = {
+    "role"      : "AI/ML Engineer · Full-Stack Developer",
+    "mission"   : "Reduce human error. Eliminate waste. Ship AI.",
+    "building"  : "Automation infra for SMBs & enterprises (compliance + reporting)",
+    "learning"  : ["AI/ML", "Big Data", "LLMs", "PyTorch internals"],
+    "collab"    : "Anything that accelerates AI × Space Colonization 🛸",
+    "contact"   : "aatif@weybre.com",
+    "fun_fact"  : "I obsess over things until the universe makes sense."
+}
+```
 
-- 📫 How to reach me **aatif@weybre.com**
+---
 
-- ⚡ Fun fact **Obsessing over things I'm curious about**
+## `$ ls --stack`
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1XqDWOmvf0EyIOGbALK6KQxotd8eoH_vO/view?usp=sharing](https://drive.google.com/file/d/1XqDWOmvf0EyIOGbALK6KQxotd8eoH_vO/view?usp=sharing)**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/MohdAatifSiddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MohdAatifSiddi" height="30" width="40" /></a>
-<a href="https://dev.to/mohdaatifsiddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohdaatifsiddi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/atif-adil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atif-adil" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/32380693/aatif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="32380693/aatif" height="30" width="40" /></a>
-<a href="https://instagram.com/aatif.eth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aatif.eth" height="30" width="40" /></a>
-<a href="https://twitter.com/MohdAatif_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MohdAatif_" height="30" width="40" /></a>
-<a href="https://leetcode.com/mohdaatifsiddi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohdaatifsiddi/" height="30" width="40" /></a>
-</p>
+**AI/ML**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/heroku" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=heroku" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unity" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=00FFB4)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=flat-square&logo=pytorch&logoColor=00FFB4)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=flat-square&logo=tensorflow&logoColor=00FFB4)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=flat-square&logo=scikit-learn&logoColor=00FFB4)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=flat-square&logo=langchain&logoColor=00FFB4)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000?style=flat-square&logo=huggingface&logoColor=00FFB4)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logoColor=00FFB4)
+![OpenCV](https://img.shields.io/badge/OpenCV-000?style=flat-square&logo=opencv&logoColor=00FFB4)
 
+**Backend & APIs**
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=flat-square&logo=nodedotjs&logoColor=00FFB4)
+![FastAPI](https://img.shields.io/badge/FastAPI-000?style=flat-square&logo=fastapi&logoColor=00FFB4)
+![Django](https://img.shields.io/badge/Django-000?style=flat-square&logo=django&logoColor=00FFB4)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=00FFB4)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=00FFB4)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=00FFB4)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=flat-square&logo=typescript&logoColor=00FFB4)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=00FFB4)
+![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=00FFB4)
+
+**Cloud & Data**
+
+![AWS](https://img.shields.io/badge/AWS-000?style=flat-square&logo=amazonaws&logoColor=00FFB4)
+![Azure](https://img.shields.io/badge/Azure-000?style=flat-square&logo=microsoftazure&logoColor=00FFB4)
+![Docker](https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker&logoColor=00FFB4)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?style=flat-square&logo=kubernetes&logoColor=00FFB4)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=00FFB4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=flat-square&logo=postgresql&logoColor=00FFB4)
+
+</div>
+
+---
+
+## `$ cat mission.txt`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🤖  Building AI automation that eliminates compliance     │
+│       grunt-work for SMBs and enterprises.                  │
+│                                                             │
+│   🛸  Looking for co-conspirators to accelerate AI          │
+│       and space colonization. Yes, literally.               │
+│                                                             │
+│   📡  Currently learning: AI/ML + Big Data — every day.    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `$ git log --stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=MohdAatifSiddi&show_icons=true&theme=dark&bg_color=0a0a0f&border_color=1e1e2a&icon_color=00FFB4&title_color=00FFB4&text_color=888888&hide_border=false" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohdAatifSiddi&layout=compact&theme=dark&bg_color=0a0a0f&border_color=1e1e2a&title_color=00FFB4&text_color=888888" />
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=MohdAatifSiddi&theme=dark&background=0a0a0f&border=1e1e2a&ring=00FFB4&fire=00FFB4&currStreakLabel=00FFB4)
+
+</div>
+
+---
+
+## `$ ping aatif`
+
+<div align="center">
+
+```
+> ping aatif@weybre.com
+> PONG  —  Let's build something insane. 🚀
+```
+
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FFB4)](mailto:aatif@weybre.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFB4)](https://linkedin.com/in/atif-adil)
+[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=00FFB4)](https://twitter.com/MohdAatif_)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=googledrive&logoColor=00FFB4)](https://drive.google.com/file/d/1XqDWOmvf0EyIOGbALK6KQxotd8eoH_vO/view)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=MohdAatifSiddi&color=00FFB4&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+<div align="center">
+<sub>// Built with obsession · Powered by caffeine · Deployed to production</sub>
+</div>
